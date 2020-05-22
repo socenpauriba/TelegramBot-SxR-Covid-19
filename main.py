@@ -18,6 +18,7 @@ NOM, TELEFON, CENTRE, ADRECA, MASCARETES, GORROS, BATES, GEL, PANTALLES, GUANTS 
 NOMCC, TELEFONCC, CEDIR = range(3)
 
 canal = "CODI DE GRUP/CANAL/USUARI DE TELEGRAM" # Allà s'enviaran les respostes dels formularis
+admin = "CODI DE GRUP/CANAL/USUARI DE TELEGRAM" # Allà s'enviaran les alertes (Inici del bot)
 enter = """
 """
 nomc = ""
@@ -248,6 +249,7 @@ def main():
     updater.start_polling()
     updater.idle()
 
+    context.bot.send_message(chat_id=admin, text="⚙️ El bot s'ha iniciat correctament!", parse_mode='MARKDOWN')
 
 `#LOOP
 
