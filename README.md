@@ -8,3 +8,16 @@ Davant la crisi de la **COVID-19**, SanitarisXRepública necessitava un bot perq
  - **/start**: Inicia el bot
  - **/demanarmaterial**: Formulari de sol·licitud de material
  - **/cedirmaterial**: Formulari de donacions de material
+ 
+ ## Repartiment de material:
+ Podeu consultar aquesta informació actualitzada a la web de [SanitarisXRepública](https://sanitarisxrep.cat/coronavirus/)
+ - **Guants**: 195.560
+ - **Bates**: 105.689
+ - **Màscares**: 94.948
+ - **Barrets**: 39.322
+ - **Pantalles**: 8.751
+ - **Gel hidroalcohòlic**: 618
+ - **Salvaorelles**: 150
+ - **Monos**: 40
+ - **Dispositius mòbils**: 25
+ - **Mascaretes Decathlon**: 4
