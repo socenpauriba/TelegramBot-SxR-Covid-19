@@ -131,7 +131,7 @@ def received_bates(update, context):
     else:
         usuariname = "nousername"
 
-    linia1 = "*NOVA SOL·LICITUT DE MATERIAL DE* @" + usuariname + ": 📥"
+    linia1 = "*NOVA SOL·LICITUD DE MATERIAL DE* @" + usuariname + ": 📥"
     linia5 = "🏷 *Nom:* " + nomx
     linia6 = "📞 *Telefon:* " + telefonx
     linia2 = "🏥 *Centre:* " + centrex
