@@ -249,7 +249,7 @@ def main():
     updater.start_polling()
     updater.idle()
 
-    updater.bot.send_message(chat_id=admin, text="⚙️ El bot s'ha iniciat correctament!", parse_mode='MARKDOWN')
+    updater.bot.send_message(chat_id=admin, text="@AlertaSxRbot: El bot s'ha iniciat correctament!", parse_mode='MARKDOWN')
 
 `#LOOP
 
